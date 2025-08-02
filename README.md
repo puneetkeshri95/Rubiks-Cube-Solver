@@ -23,7 +23,7 @@ This application implements several advanced solving algorithms:
 - Intuitive approach for learning
 
 ## Project Structure
-
+```
 src/
 ├── components/          # React components
 │   ├── CubeSelector.jsx     # Cube size selection
@@ -40,4 +40,5 @@ src/
 ├── main.jsx             # Entry point
 ├── App.css              # Main styles
 └── index.css            # Global styles
+```
 
